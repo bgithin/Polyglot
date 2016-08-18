@@ -3,9 +3,9 @@
 /* =====================================================
  * change this to the email you want the form to send to
  * ===================================================== */
-$email_to = "you@company.pw"; 
-$email_from = "webmaster@company.pw"; // must be different than $email_from 
-$email_subject = "Contact Form submitted";
+$email_to = "polyglot.create@gmail.com"; 
+$email_from = "polyglot.create@gmail.com"; // must be different than $email_from 
+$email_subject = "Message for Polyglot";
 
 if(isset($_POST['email']))
 {
